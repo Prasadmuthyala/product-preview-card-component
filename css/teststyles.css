@@ -1,0 +1,66 @@
+body {
+  padding: 0;
+  justify-content: center;
+  font-size: 14px;
+  color: hsl(158, 36%, 37%);
+  background-color: hsl(30, 38%, 92%);
+}
+.card{
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border-radius: 0.9375rem;
+}
+.card-title{
+  font-family: 'Montserrat', sans-serif;
+  color: hsl(158, 36%, 37%);
+  font-weight: 700;
+  letter-spacing: 8px
+}
+.product-name{
+  color: hsl(212, 21%, 14%);
+  font-family: 'Fraunces', serif;
+  font-weight: 700;
+  font-size:1.8rem;
+}
+.card-text{
+  font-family: 'Montserrat', sans-serif;
+  line-height: 2;
+  color:  hsl(158, 36%, 37%);
+}
+.price{
+  font-family: 'Fraunces', serif;
+  font-weight: 700;
+  color: hsl(158, 36%, 37%);
+}
+.original-price{
+  text-decoration: line-through;
+  font-size: 12px;
+  position: absolute;
+  margin-left: 15px;
+    margin-top: 8px;
+  color: hsl(228, 12%, 48%);
+}
+img{
+  border-radius: 16px;
+}
+.btn1 {
+  margin-left: 30px;
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  color: #faf7fa;
+  font-size: 20px;
+  background: hsl(158, 36%, 37%);
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+border-style: none;
+}
+
+.btn1:hover {
+  background: #104d73;
+  background-image: -webkit-linear-gradient(top, #104d73, #3498db);
+  background-image: -moz-linear-gradient(top, #104d73, #3498db);
+  background-image: -ms-linear-gradient(top, #104d73, #3498db);
+  background-image: -o-linear-gradient(top, #104d73, #3498db);
+  background-image: linear-gradient(to bottom, #104d73, #3498db);
+  text-decoration: none;
+}
