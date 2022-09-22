@@ -8,6 +8,11 @@ body {
 .card{
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   border-radius: 0.9375rem;
+  position: relative;
+}
+.card-body{
+  display: flex;
+  flex-direction: column;
 }
 .card-title{
   font-family: 'Montserrat', sans-serif;
