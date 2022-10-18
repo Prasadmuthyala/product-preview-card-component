@@ -44,7 +44,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [PrasadMuthyala] [(https://www.your-site.com)](https://prasadmuthyala.github.io/cv2/)
+- Website - [PrasadMuthyala] (https://prasadmuthyala.github.io/cv2/)
 - Frontend Mentor - [@Prasadmuthyala] https://www.frontendmentor.io/profile/Prasadmuthyala
 
 ## Acknowledgments
